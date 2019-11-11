@@ -1,0 +1,9 @@
+.idea
+.gradle
+out
+build/classes
+build/jmh-generated-classes
+build/jmh-generated-resources
+build/jmh-generated-sources
+build/libs
+build/tmp

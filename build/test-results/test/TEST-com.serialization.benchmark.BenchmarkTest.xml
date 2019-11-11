@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.serialization.benchmark.BenchmarkTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2019-11-07T11:05:55" hostname="BLRJPT3205D" time="1.154">
+  <properties/>
+  <testcase name="JacksonSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.287"/>
+  <testcase name="GSONSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.042"/>
+  <testcase name="KyroSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.069"/>
+  <testcase name="FSTBinarySerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.089"/>
+  <testcase name="ProtoBufSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.02"/>
+  <testcase name="FastJsonSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.119"/>
+  <testcase name="SmileSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.025"/>
+  <testcase name="BoonSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.07"/>
+  <testcase name="FSTJsonSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.025"/>
+  <testcase name="ThriftBinarySerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.014"/>
+  <testcase name="JavaDefaultSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.009"/>
+  <testcase name="ThriftJsonSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.012"/>
+  <testcase name="MsgPackSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.23"/>
+  <testcase name="DslSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.072"/>
+  <testcase name="ProtoStuffSerializationTest" classname="com.serialization.benchmark.BenchmarkTest" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,27 @@
+Benchmark                                                   Mode  Cnt      Score      Error  Units
+BoonSerializationBenchmark.boonDeserialization              avgt   15  26513.994 ± 5319.096  ns/op
+BoonSerializationBenchmark.boonSerialization                avgt   15  14646.629 ± 3540.851  ns/op
+DslSerializationBenchmark.dslDeserialization                avgt   15  11587.148 ±  996.384  ns/op
+DslSerializationBenchmark.dslSerialization                  avgt   15   8606.310 ±  537.210  ns/op
+FSTBinarySerializationBenchmark.fstBinaryDeserialization    avgt   15   4965.186 ±  237.966  ns/op
+FSTBinarySerializationBenchmark.fstBinarySerialization      avgt   15   3739.966 ±  188.004  ns/op
+FSTJsonSerializationBenchmark.fstJsonDeserialization        avgt   15  18119.869 ±  536.577  ns/op
+FSTJsonSerializationBenchmark.fstJsonSerialization          avgt   15  11606.984 ±  219.329  ns/op
+FastJsonSerializationBenchmark.fastJsonDeserialization      avgt   15   5511.053 ±  111.389  ns/op
+FastJsonSerializationBenchmark.fastJsonSerialization        avgt   15  14267.514 ±  109.283  ns/op
+GsonSerializationBenchmark.gsonDeserialization              avgt   15  14255.253 ±  238.847  ns/op
+GsonSerializationBenchmark.gsonSerialization                avgt   15  17757.079 ±  481.519  ns/op
+JacksonSerializationBenchmark.jacksonDeserialization        avgt   15  13845.313 ±  450.652  ns/op
+JacksonSerializationBenchmark.jacksonSerialization          avgt   15   7185.074 ±  164.399  ns/op
+JavaSerializationBenchmark.javaDeserialization              avgt   15  48873.392 ±  752.391  ns/op
+JavaSerializationBenchmark.javaSerialization                avgt   15  15129.628 ±  418.782  ns/op
+KyroSerializationBenchmark.kyroDeserialization              avgt   15   3927.342 ±  102.224  ns/op
+KyroSerializationBenchmark.kyroSerialization                avgt   15   3252.675 ±   98.247  ns/op
+MsgPackSerializationBenchmark.msgPackDeserialization        avgt   15  30463.899 ±  916.425  ns/op
+MsgPackSerializationBenchmark.msgPackSerialization          avgt   15  36182.280 ±  304.570  ns/op
+ProtobufSerializationBenchmark.protobufDeserialization      avgt   15   2700.019 ±   22.182  ns/op
+ProtobufSerializationBenchmark.protobufSerialization        avgt   15   2868.192 ±   62.469  ns/op
+ProtostuffSerializationBenchmark.protostuffDeserialization  avgt   15   4996.016 ±   95.739  ns/op
+ProtostuffSerializationBenchmark.protostuffSerialization    avgt   15   3404.383 ±   59.866  ns/op
+SmileSerializationBenchmark.smileDeserialization            avgt   15   7254.575 ±  152.910  ns/op
+SmileSerializationBenchmark.smileSerialization              avgt   15   4806.653 ±  123.019  ns/op
